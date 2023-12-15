@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net" modified="2023-11-12T20:58:20.302Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="YYDSmYlkJty5kPHq45u6" version="22.1.0" type="google">
+  <diagram name="Page-1" id="qsAAOldt2PVF366Oavs8">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lKQkh7oTD6-xeMmGW4ba-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lKQkh7oTD6-xeMmGW4ba-1" target="lKQkh7oTD6-xeMmGW4ba-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lKQkh7oTD6-xeMmGW4ba-1" value="Procure Data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lKQkh7oTD6-xeMmGW4ba-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lKQkh7oTD6-xeMmGW4ba-2" target="lKQkh7oTD6-xeMmGW4ba-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lKQkh7oTD6-xeMmGW4ba-2" value="Establish Baseline" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lKQkh7oTD6-xeMmGW4ba-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lKQkh7oTD6-xeMmGW4ba-4" target="lKQkh7oTD6-xeMmGW4ba-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lKQkh7oTD6-xeMmGW4ba-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lKQkh7oTD6-xeMmGW4ba-4" target="lKQkh7oTD6-xeMmGW4ba-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lKQkh7oTD6-xeMmGW4ba-4" value="Using pre-trained BERT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lKQkh7oTD6-xeMmGW4ba-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lKQkh7oTD6-xeMmGW4ba-6" target="lKQkh7oTD6-xeMmGW4ba-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lKQkh7oTD6-xeMmGW4ba-6" value="&lt;div&gt;Refine/Retrain&lt;/div&gt;&lt;div&gt;&amp;nbsp;BERT&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lKQkh7oTD6-xeMmGW4ba-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lKQkh7oTD6-xeMmGW4ba-9" target="lKQkh7oTD6-xeMmGW4ba-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lKQkh7oTD6-xeMmGW4ba-9" value="Scrape data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-lxvEuLutvz-6sXsBOP-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lKQkh7oTD6-xeMmGW4ba-12" target="N-lxvEuLutvz-6sXsBOP-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lKQkh7oTD6-xeMmGW4ba-12" value="Data Expansion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-lxvEuLutvz-6sXsBOP-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lKQkh7oTD6-xeMmGW4ba-16" target="N-lxvEuLutvz-6sXsBOP-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lKQkh7oTD6-xeMmGW4ba-16" value="Evaluating refined BERT on existing dataset" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-lxvEuLutvz-6sXsBOP-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N-lxvEuLutvz-6sXsBOP-1" target="N-lxvEuLutvz-6sXsBOP-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N-lxvEuLutvz-6sXsBOP-1" value="Test BERT on expanded dataset, fine tune if necessary" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-lxvEuLutvz-6sXsBOP-4" value="Evaluate if the system can answer more up-to-date questions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
