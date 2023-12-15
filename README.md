@@ -10,7 +10,7 @@
 
 ## Github Repository
 
-https://github.com/ShayPatrickCormac/CS546Project
+[https://github.com/ShayPatrickCormac/CS546Project](https://github.com/ShayPatrickCormac/FinalCS546Repo)
 
 ## Project Summary
 
